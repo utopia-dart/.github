@@ -1,5 +1,5 @@
 # Utopia Dart
-Utopia Dart is an collection of Dart libraries to build awesome Fullstack Dart projects.
+Utopia Dart is a collection of Dart libraries to build awesome Fullstack Dart projects.
 
 ## Packages
 
